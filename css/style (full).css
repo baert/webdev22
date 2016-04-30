@@ -1,0 +1,107 @@
+@charset "utf-8";
+.navbar-brand {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	transition: all 0.5s ease;
+}
+
+.navbar-brand:hover {
+    transition: all 0.5s ease;
+}
+
+.navbar-nav {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+
+.navbar-nav a {
+	transition: all 0.5s ease;
+}
+
+.navbar-nav a:hover {
+	letter-spacing: 5px;
+	transition: all 0.5s ease;
+}
+
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pic {
+	height: 400px;
+	width: 400px;
+	border-radius: 30%;
+}
+
+.social {
+	height: 10%;
+	width: 10%;
+}
+
+.container a {
+	color: gray;
+	transition: all 0.5s ease;
+	text-decoration: none;
+}
+
+.container a:hover {
+	color: black;
+	transition: all 0.5s ease;
+
+}
+
+.prof {
+	width: 20%;
+	height: 20%;
+	border-radius: 50%;
+}
+
+.center {
+	margin: auto;
+}
+
+.padtop {
+	padding-top: 10px;
+}
+
+#active {
+	color: white;
+}
+
+.bf {
+	position: absolute;
+	bottom: 2px;
+}
+
+.item {
+	font-family: monospace;
+}
+
+.backcol {
+	background-color: #e4e4e4;
+	padding-bottom: 20px;
+	border-radius: 5px;
+}
+
+.aboutbg {
+	background-image: url('http://i.imgur.com/p5OfjTw.jpg');
+	background-size: cover;
+}
+
+.gallerybg { 
+	background-image: url('http://i.imgur.com/mKOyZgp.jpg')
+ }
+
+ .designbg { 
+	background-image: url('http://i.imgur.com/nnxvz7m.jpg')
+ }
+
+ .mediabg { 
+	background-image: url('http://i.imgur.com/dsy2wDi.jpg')
+ }
+
+ .contactbg { 
+	background-image: url('http://i.imgur.com/t8Hqgpf.jpg')
+ }
